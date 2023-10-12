@@ -6,6 +6,7 @@
 
 .product-img__container {
   align-self: center;
+  margin-left: 22px;
 }
 
 .product__container img {
